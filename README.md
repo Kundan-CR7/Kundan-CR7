@@ -1,10 +1,12 @@
-<img src="https://i.postimg.cc/nh7GYJwp/Profile.png" alt="Welcome Banner" style="width: 100%; height:60%; border-radius: 12px;"/>
+<img src="https://i.postimg.cc/nh7GYJwp/Profile.png" alt="Welcome Banner" style="width: 100%; height:40%; border-radius: 12px;"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFB3&center=true&vCenter=true&width=800&lines=Hi,+I'm+Kundan+Gupta;Full+Stack+Developer;AI+%26+ML+Student;240%2B+DSA+Problems+Solved;Always+Learning;Let's+Build+Something+Cool!" alt="Typing SVG"/>
 
-<p style="font-family: monospace; margin-top:-14px">
-I’m a passionate web developer and a tech enthusiast focused on building clean, efficient, and scalable applications. Currently, I’m honing my skills in Python, Data Structures & Algorithms, and Arduino projects. I enjoy blending creativity with culture and love collaborating on cool projects. Check out my repos!
-</p>
+🎨 Exploring 3D worlds with **Three.js**  
+⚙️ Building robust **backends & APIs**  
+💨 Styling sleek UIs with **TailwindCSS**  
+🤖 Blending creativity with tech & culture  
+🔍 Always learning, always building — check out my repos!
 
 <hr style='height:1px'>
 <p style="font-family: monospace;">
