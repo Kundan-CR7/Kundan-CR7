@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -18,5 +17,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kundan-CR7&show_icons=true&locale=en" alt="kundan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kundan-CR7&" alt="kundan" /></p>
+
+</p>
+<p align="">
+  <a href="https://www.linkedin.com/in/kundan-gupta-8a1818196"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/forbioser_hyperface"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:kundangupta7334@gmail.com"><img src="https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 
