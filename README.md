@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kundan Gupta</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFB3&center=true&vCenter=true&width=800&lines=Hi,+I'm+Kundan+Gupta;Full+Stack+Developer;AI+%26+ML+Student;240%2B+DSA+Problems+Solved;Always+Learning;Let's+Build+Something+Cool!" alt="Typing SVG"/>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundan&label=Profile%20views&color=0e75b6&style=flat" alt="kundan" /> </p>
