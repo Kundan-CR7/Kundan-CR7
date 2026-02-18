@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kundan" alt="kundan" /></a> </p>
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently deep diving into **Deep Learning**
 
 <p align="left">
 </p>
